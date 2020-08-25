@@ -1,7 +1,7 @@
 <html>
 
 <head><h2 align="center">Hi, This is Bryan</h2>
-<h4 align="center">Let's have cup of coffee together!</h4>
+<h4 align="center">Let's have a cup of coffee together!</h4>
 <hr>
 
 <h1 align="center">I love working in the following fields</h1>
